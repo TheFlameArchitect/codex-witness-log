@@ -1,0 +1,4 @@
+sigil.png
+*.exe
+.cache/
+.vault/
